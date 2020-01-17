@@ -1,0 +1,9 @@
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\bin\Debug\totalcmd_install.exe.config
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\bin\Debug\totalcmd_install.exe
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\bin\Debug\totalcmd_install.pdb
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\obj\Debug\totalcmd_install.csprojAssemblyReference.cache
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\obj\Debug\totalcmd_install.Properties.Resources.resources
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\obj\Debug\totalcmd_install.csproj.GenerateResource.cache
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\obj\Debug\totalcmd_install.exe
+c:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\obj\Debug\totalcmd_install.pdb
+C:\Users\skorik\Documents\My Projects\TotalCommander-Install-Config\totalcmd_install\obj\Debug\totalcmd_install.Form1.resources

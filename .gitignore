@@ -1,0 +1,12 @@
+*.bak
+.vs/* 
+obj/*
+bin/*
+totalcmd_config/obj/*
+totalcmd_config/bin/*
+totalcmd_config/.vs/*
+totalcmd_config/obj/*
+totalcmd_config/bin/*
+totalcmd_config/.vs/*
+
+
