@@ -1,0 +1,37 @@
+Окно перед инсталяцией
+1.	Один пользователь
+2.	Много пользователей
+a.	Одна конфигурация на всех
+b.	У каждого своя конфигурация
+Папка установки
+1.	Origin  - c:\totalcmd 
+2.	Custom c:\Program Files\totalcmd 
+
+Место хранения конфигурации
+wincmd.ini
+1.	Origin - %APPDATA% -  C:\Users\<user>\AppData\Roaming\ Ghisler\
+2.	Custom – TotalCommander 
+3.	Public – c:\ProgramData\ Ghisler\
+4.	c:\Users\<user>\Documents\ Ghisler\
+
+Допы
+В  меню Конфигурация добавить пункт Сохранить, Загрузить, Изменить место хранения конфиграции
+
+
+
+
+https://www.ghisler.ch/wiki/index.php?title=Ini-settings
+Configuration files default location:
+under Windows Vista: "%AppData%\Ghisler" folder
+under older systems: Windows directory
+Location can be changed:
+using command line parameters
+in the Registry. It can be set either at TC installation time, or using the standalone program IniReloc (available at www.ghisler.com in Addons section).
+
+
+
+
+
+ 
+
+ 
